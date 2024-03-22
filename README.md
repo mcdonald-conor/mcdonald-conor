@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @mcdonald-conor
-- 👀 I’m interested in web3, full stack development and novel uses of software. 
-- 🌱 I’m currently learning software development through CS50, freeCodeCamp and (hopefully soon) a software bootcamp called Northcoders.
-- 📫 How to reach me: twitter.com/mcdonaldconor
+- 👀 I’m interested in healthtech, full stack development and novel uses of software. 
+- 🌱 I’m currently learning software development as part of Le Wagon's Full Stack Web Development bootcamp.
