@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mcdonald-conor
 - 👀 I’m interested in govtech, healthtech, defence and entrepeneurship. Experienced in Full Stack Development and Product Engineering.
-- 🌱 I’m currently working as a Software Engineer in Embedded Systems using C++. I like to build my ideas in Ruby on Rails and I'm playing with AI in Python. I'm working on creating an Embedded Systems Engineer Handbook for non-engineering graduates like me. 
+- 🌱 I’m currently working as a Software Engineer in Embedded Systems using C++. I like to build my ideas in Ruby on Rails and I'm playing with AI in Python. I'm also creating an Embedded Systems Engineer Handbook for non-engineering graduates like me. 
